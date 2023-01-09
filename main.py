@@ -15,5 +15,5 @@ if __name__ == '__main__':
     print("new print")
     print("After Commit")
     print("Log check")
-    print("Push directly")
+    print("Push directly 2")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
